@@ -1,4 +1,4 @@
-Desenvolvimento de jogo narrativo com JavaScript e IA
+## Desenvolvimento de jogo narrativo com JavaScript e IA
 
 Projeto integrador de LKógica de programação usando IA
 
