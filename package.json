@@ -1,0 +1,24 @@
+{
+  "name": "jogonarrativo",
+  "version": "1.0.0",
+  "description": "Jogo narrativo usando IA e JavaScript",
+  "homepage": "https://github.com/lucas-britto13/jogonarrativo#readme",
+  "bugs": {
+    "url": "https://github.com/lucas-britto13/jogonarrativo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucas-britto13/jogonarrativo.git"
+  },
+  "license": "MIT",
+  "author": "Lucas Britto",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
